@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392846756945",
+    "project_id": "valued-fortress-412109",
+    "storage_bucket": "valued-fortress-412109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392846756945:android:ed491f222c1a3f344cbc70",
+        "android_client_info": {
+          "package_name": "com.crudapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnU70Ugc9EXGL1D-1THpOEtpE7W0a3eRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
